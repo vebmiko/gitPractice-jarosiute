@@ -1,1 +1,2 @@
 # gitPractice-jarosiute
+Developing feature1
